@@ -1,3 +1,3 @@
 # bootstrapblogtasarim
-Bootstrap İlk Blog Tasarımım
+Bootstrap Kullanarak Yaptığım İlk Blog Tasarimim
 
